@@ -1,4 +1,7 @@
-centos65
-========
+#CentOS 7.0 Vagrant Box
 
-Vagrant box for the VirtualBox provider with ruby and puppet installed. Updated weekly.
+Installed Software
+
+1. Ruby
+2. Python
+3. Puppet
